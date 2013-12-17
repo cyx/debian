@@ -1,0 +1,3 @@
+# Default settings go here, and then
+# at the end, preload my Xmodmap settings
+exec xmodmap ~/.Xmodmap
